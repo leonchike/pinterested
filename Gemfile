@@ -33,3 +33,6 @@ gem 'devise', '~> 4.2'
 
 gem 'paperclip', '~> 5.1'
 gem 'aws-sdk', '~> 2.6', '>= 2.6.14'
+
+gem 'jquery-turbolinks'
+gem 'masonry-rails', '~> 0.2.4'
